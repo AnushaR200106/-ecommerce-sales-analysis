@@ -24,6 +24,6 @@ Analysed retail customer purchase behaviour using two datasets — basket transa
 - GitHub
 
 ## About Me
-BE Computer Science | VTU 2026 | Bengaluru  
+BE Computer Science | 2026 | Bengaluru  
 Skills: Python · SQL · Excel · Power BI  
 [LinkedIn](https://linkedin.com/in/anusha-r-18b073228)
