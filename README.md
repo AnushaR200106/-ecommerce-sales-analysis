@@ -18,8 +18,6 @@ Analysed retail customer purchase behaviour using two datasets — basket transa
 
 4. **37.3% of age records are invalid** — values like -34 and 2022 exist in the data. Data validation rules must be added at the point of collection.
 
-<img width="2042" height="1476" alt="basket_analysis_charts" src="https://github.com/user-attachments/assets/3561904c-f4d6-4f69-bf18-b441d06e57ad" />
-
 
 ## Tools Used
 - Python (pandas, matplotlib)
